@@ -1,0 +1,15 @@
+content:
+  - Introduction to Java
+  - Printing data
+  - Types and variables
+  - Comments
+  - Reading user's input with Scanner
+  - Writing first program
+  - Integer types and operations
+  - Increment and decrement
+  - String
+  - "Basic literals  numbers, strings and characters"
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
+  - For-loop

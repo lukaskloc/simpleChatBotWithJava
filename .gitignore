@@ -1,0 +1,62 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot with Java/task/build/
+/Simple Chat Bot with Java/task/out/
+/Simple Chat Bot with Java/task/out/production/classes/
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/
+/Topics/Basic literals  numbers, strings and characters/Save the day/out/production/classes/
+/Topics/Comments/Javadoc comment/out/
+/Topics/Comments/Javadoc comment/out/production/classes/
+/Topics/Comparing values. Relational operators/Check the sum/out/
+/Topics/Comparing values. Relational operators/Check the sum/out/production/classes/
+/Topics/Comparing values. Relational operators/Check the value/out/
+/Topics/Comparing values. Relational operators/Check the value/out/production/classes/
+/Topics/Conditional statement/Determining range of an integer  low, mid or high/out/
+/Topics/Conditional statement/Determining range of an integer  low, mid or high/out/production/classes/
+/Topics/Conditional statement/Healthy sleep/out/
+/Topics/Conditional statement/Healthy sleep/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/For-loop/Fizz Buzz/out/
+/Topics/For-loop/Fizz Buzz/out/production/classes/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/production/classes/
+/Topics/For-loop/Grades/out/
+/Topics/For-loop/Grades/out/production/classes/
+/Topics/For-loop/Squaring odd numbers in a sequence/out/
+/Topics/For-loop/Squaring odd numbers in a sequence/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
+/Topics/Introduction to Java/Basics/out/
+/Topics/Introduction to Java/Basics/out/production/classes/
+/Topics/Introduction to Java/Theory/build/
+/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number/out/
+/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Reading user's input with Scanner/Guest list of a hotel/out/
+/Topics/Reading user's input with Scanner/Guest list of a hotel/out/production/classes/
+/Topics/Reading user's input with Scanner/Print strings in the reverse order/out/
+/Topics/Reading user's input with Scanner/Print strings in the reverse order/out/production/classes/
+/Topics/Reading user's input with Scanner/Printing each word in a new line/out/
+/Topics/Reading user's input with Scanner/Printing each word in a new line/out/production/classes/
+/Topics/String/Check prefix ignoring the case/out/
+/Topics/String/Check prefix ignoring the case/out/production/classes/
+/Topics/Types and variables/Assignments/out/
+/Topics/Types and variables/Assignments/out/production/classes/
+/Topics/Types and variables/Assignments (1)/out/
+/Topics/Types and variables/Assignments (1)/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
+/Topics/Types and variables/Invalid declaration of variables/out/
+/Topics/Types and variables/Invalid declaration of variables/out/production/classes/
+/Topics/Writing first program/Hello, Java/out/
+/Topics/Writing first program/Hello, Java/out/production/classes/

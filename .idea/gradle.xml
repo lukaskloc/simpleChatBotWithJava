@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/A valid string" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Find an invalid literal" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Incorrect literal" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Match groups and literals" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Non string literals" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Save the day" />
+            <option value="$PROJECT_DIR$/Topics/Basic literals  numbers, strings and characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Factorial Finder" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Select all correct comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncommented comments" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Alice and Bob" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/All in one" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/From sum to product" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Generate an inverted pyramid from asterisks" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Grades" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Squaring odd numbers in a sequence" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Statements" />
+            <option value="$PROJECT_DIR$/Topics/For-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Basics" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Java features" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Not a black box" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining Fizz, Buzz, or FizzBuzz for a number" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Double ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Rewriting a conditional statement" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/The max of the longs" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/What does the double ternary operator do" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Write a ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Déjà vu" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Find a way" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Fixing the greeting message compiler error" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Goodbye, world" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Jamais vu" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/We need to learn Java" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Complete the user greeting program" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Different types" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Direct input" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Multiplying a user input number by itself" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a single word" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reorder the sequence" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Calling basic methods" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Animal" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments (1)" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Declaring and printing different variable types" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Invalid declaration of variables" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/New player" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Construct a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Elements of a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find a word that is not a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Match terms and their definitions" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
